@@ -1,4 +1,19 @@
-# 👉 <b>(|UBUNTU 18|)</b>
+<img src="https://i.ibb.co/YD7Js0v/download.png)" alt="Git Gone Day"/>
+# PROJETO - XPLAY PAINEL SSH
+
+## ⚡ XPLAY PAINEL SSH ⚡
+## 🏆 Premium Version 🏆
+## VERSÃO: BETA
+
+
+## Modo de instalação - Manual
+
+@@ -16,28 +15,28 @@ Armazenamento: 20GB
+```
+* 🐱‍💻 Instalação
+* ⚡  XPLAY PAINEL SSH ⚡ x86/x64bits
+* 🦅  XPLAY PAINEL SSH x86/x64bits
+
 
 ```
 apt install wget -y; bash <(wget -qO- https://github.com/AndradeSUT/xPlay5GSSH/raw/main/install/ubuinst.sh)

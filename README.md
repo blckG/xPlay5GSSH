@@ -12,7 +12,7 @@ apt install wget -y; bash <(wget -qO- https://raw.githubusercontent.com/AndradeS
 
 # 𓊈𒆜 SINCRONIZAR NA VPS SSH! 𒆜𓊉
 ```
-apt install wget -y; bash <(wget -qO- https://github.com/Lockednet/LOCKEDWEB/raw/main/install/sincpainel.sh)
+apt install wget -y; bash <(wget -qO- https://raw.githubusercontent.com/AndradeSUT/pweb/install/sincpainel.sh)
 ```
 
 # 𓊈𒆜 CRÉDITOS: 𒆜𓊉
@@ -21,4 +21,6 @@ apt install wget -y; bash <(wget -qO- https://github.com/Lockednet/LOCKEDWEB/raw
 @nandoslayer
 @swittecnologia
 @Davidsdy
+@AndradeS_xPlay
+@LOCKED_SSH
 ```

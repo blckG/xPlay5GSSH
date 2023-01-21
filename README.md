@@ -8,7 +8,7 @@ apt install wget -y; bash <(wget -qO- https://github.com/AndradeSUT/xPlay5GSSH/r
 
 # 𓊈𒆜 CHAVE DE INSTALAÇÃO! 𒆜𓊉
 ```
-@swittplus
+@XPLAYNETWORKS
 ```
 
 # 𓊈𒆜 SINCRONIZAR NA VPS SSH! 𒆜𓊉

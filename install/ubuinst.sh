@@ -72,13 +72,13 @@ function title {
 
 function stop_install {
   [[ ! -e /bin/pweb ]]  && {
-    title "INSTALAÇÃO CANCELADA"
+    title "INSTALAÇÃO CANCELADA!"
     clear
     cat /dev/null > ~/.bash_history && history -c
     rm /bin/ubuinst* > /dev/null 2>&1
     exit;
  } || {
-    title "INSTALAÇÃO CANCELADA"
+    title "INSTALAÇÃO CANCELADA!"
     clear
     cat /dev/null > ~/.bash_history && history -c
     rm /bin/ubuinst* > /dev/null 2>&1

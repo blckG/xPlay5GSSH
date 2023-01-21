@@ -1,8 +1,9 @@
 # 👉 <b>(|UBUNTU 18|)</b>
 
 ```
-apt install wget -y; bash <(wget -qO- https://raw.githubusercontent.com/AndradeSUT/pweb/painel/install/ubuinst.sh)
+apt install wget -y; bash <(wget -qO- https://github.com/AndradeSUT/xPlay5GSSH/raw/main/install/ubuinst.sh)
 ```
+
 </br>
 
 # 𓊈𒆜 CHAVE DE INSTALAÇÃO! 𒆜𓊉
@@ -12,7 +13,7 @@ apt install wget -y; bash <(wget -qO- https://raw.githubusercontent.com/AndradeS
 
 # 𓊈𒆜 SINCRONIZAR NA VPS SSH! 𒆜𓊉
 ```
-apt install wget -y; bash <(wget -qO- https://raw.githubusercontent.com/AndradeSUT/pweb/install/sincpainel.sh)
+apt install wget -y; bash <(wget -qO- https://github.com/AndradeSUT/xPlay5GSSH/raw/main/install/sincpainel.sh)
 ```
 
 # 𓊈𒆜 CRÉDITOS: 𒆜𓊉
